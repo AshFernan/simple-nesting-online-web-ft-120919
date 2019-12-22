@@ -79,8 +79,6 @@ def adding_matz
 		 programmer_hash[:yukihiro_matsumoto][:languages] = ["LISP", "C"]
 		 programmer_hash
 end
-    
-end
 
 def changing_alan
 	programmer_hash = 
